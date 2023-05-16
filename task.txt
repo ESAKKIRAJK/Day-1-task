@@ -1,0 +1,30 @@
+Day 1 Task:
+
+1.Difference between HTTP 1.1 to HTTP2:
+			HTTP stands for “Hypertext Transfer Protocol”.Which is used for client-server communication.
+
+HTTP 1.1
+
+1.IT was created in 1997.
+2.It works on the textual format.
+3.Its need multiple TCP connections because of order and blocking.
+4.Request and Response are separated.
+5.It compresses data by itself.
+HTTP 2
+1.It was created in 2015.
+2.It works on the binary protocol.
+3.Its need single TCP connections because of Multiplexed.
+4.Addition of server push function(send related file without request)
+5.It uses Hpack for data compression.
+
+
+
+
+2.Objects and its  internal representation in javascript:
+		JavaScript is an object-oriented programming language,
+         so everything in JavaScript is an object.A JavaScript object is like a real-world entity having state and behavior, 
+         for example, a car. We can take a car as an object. It will have a state like color and model.
+          It will also have behaviors like accelerating and brake.
+          JavaScript is template based and we can create objects without the need of having a class. 
+          Generally, an object is accompanied by a class that defines an object’s blueprints but JavaScript doesn’t require any 
+          class to be defined for the object..
